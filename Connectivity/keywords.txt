@@ -1,0 +1,4 @@
+Connectivity KEYWORD1
+sm_connectivity  KEYWORD2
+macAddress  KEYWORD2
+

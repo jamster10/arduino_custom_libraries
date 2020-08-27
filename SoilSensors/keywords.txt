@@ -1,0 +1,5 @@
+SoilSensors KEYWORD1
+shouldWater  KEYWORD2
+getSensorData KEYWORD2
+setWateringThreshold KEYWORD2
+sm_soil_sensors KEYWORD2
